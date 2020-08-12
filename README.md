@@ -1,6 +1,6 @@
 # ElektroFramework
 
-.NET/.NET Core Framework for me. :)
+.NET/.NET Core Framework playground for me. :)
 
 =======
 
