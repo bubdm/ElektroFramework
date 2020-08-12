@@ -177,6 +177,32 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
       </e>
+      <e p="ElektroFramework.ShoppingCart" t="IncludeRecursive">
+        <e p="CartItem.cs" t="Include" />
+        <e p="CartManager.cs" t="Include" />
+        <e p="ElektroFramework.ShoppingCart.csproj" t="IncludeRecursive" />
+        <e p="Product.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="ElektroFramework.ShoppingCart.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="ElektroFramework.ShoppingCart.Tests" t="IncludeRecursive">
+        <e p="ElektroFramework.ShoppingCart.Tests.csproj" t="IncludeRecursive" />
+        <e p="ShoppingCartTests.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="ElektroFramework.ShoppingCart.Tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="ElektroFramework.Utilities" t="IncludeRecursive">
         <e p="ElektroFramework.Utilities.csproj" t="IncludeRecursive" />
         <e p="StringHelpers.cs" t="Include" />

@@ -6,6 +6,18 @@ namespace ElektroFrameWork.Utilities.Tests
     [TestFixture]
     public class StringHelpers_test
     {
+        [SetUp]
+        public void TestInitialize()
+        {
+            
+        }
+
+        [TearDown]
+        public void TestCleanUp()
+        {
+            
+        }
+        
         [Test]
         public void delete_spaces_from_start_and_end_from_word()
         {

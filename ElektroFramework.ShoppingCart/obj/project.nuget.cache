@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1q8wael42HCkwmPOUcLOumoPGy8QuPVlxnireZkeSm7R342Rp5w4xff5Gqj+VWp4J3J2Cgyyt6B+trcFERZlkQ==",
+  "success": true,
+  "projectFilePath": "/home/eiektro/RiderProjects/ElektroFramework/ElektroFramework.ShoppingCart/ElektroFramework.ShoppingCart.csproj",
+  "expectedPackageFiles": [
+    "/home/eiektro/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/eiektro/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.0/microsoft.aspnetcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
