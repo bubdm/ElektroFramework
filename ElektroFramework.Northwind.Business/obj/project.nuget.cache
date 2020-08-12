@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mk9RMFicAED82ouya/VBcL0yrtW2oTgYJtsKUa0l2d/Si65FJ3blFr31NQ+PIXlmn7WqtE4XndVu9ps3KMdgPA==",
+  "success": true,
+  "projectFilePath": "/home/eiektro/RiderProjects/ElektroFramework/ElektroFramework.Northwind.Business/ElektroFramework.Northwind.Business.csproj",
+  "expectedPackageFiles": [
+    "/home/eiektro/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/eiektro/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.0/microsoft.aspnetcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

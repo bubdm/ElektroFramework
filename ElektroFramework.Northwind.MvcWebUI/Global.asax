@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="ElektroFramework.Northwind.MvcWebUI.MvcApplication" Language="C#" %>
