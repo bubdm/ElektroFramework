@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kaYIl68tr7iIULbXshRUIjRcEAUmJFK6PCSFzLrzsFShRe/tf8Z2HIkx/UXGtm04FPK8a0kn+ZRBWwBVWfrVQw==",
+  "success": true,
+  "projectFilePath": "/home/eiektro/RiderProjects/ElektroFramework/ElektroFramework.Utilities/ElektroFramework.Utilities.csproj",
+  "expectedPackageFiles": [
+    "/home/eiektro/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/eiektro/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.0/microsoft.aspnetcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

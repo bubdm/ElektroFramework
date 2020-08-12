@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZP+ruA7uiiL2vNymssg95vS853l+Y+sssxsrRcFnCbpcIMke2W1MwoGh+sx7/F3jkNK8MYz6Qq6O40ET69g/QA==",
+  "success": true,
+  "projectFilePath": "/home/eiektro/RiderProjects/ElektroFramework/ElektroFramework.Utilities.Tests/ElektroFramework.Utilities.Tests.csproj",
+  "expectedPackageFiles": [
+    "/home/eiektro/.nuget/packages/nunit/2.6.4/nunit.2.6.4.nupkg.sha512",
+    "/home/eiektro/.nuget/packages/xamarin.uitest/2.2.4/xamarin.uitest.2.2.4.nupkg.sha512"
+  ],
+  "logs": []
+}
