@@ -1,6 +1,10 @@
 # ElektroFramework
 
+<<<<<<< HEAD
 .NET/.NET Core Framework for me. :)
+=======
+.NET/.NET Core Framework playground for me. :)
+>>>>>>> 2b074a530188ee96d840d47d0a9615215d891870
 
 ## Dependencies
 
