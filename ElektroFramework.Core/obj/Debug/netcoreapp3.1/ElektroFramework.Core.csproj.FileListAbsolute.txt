@@ -1,9 +1,0 @@
-/home/eiektro/RiderProjects/ElektroFramework/ElektroFramework.Core/bin/Debug/netcoreapp3.1/ElektroFramework.Core.deps.json
-/home/eiektro/RiderProjects/ElektroFramework/ElektroFramework.Core/bin/Debug/netcoreapp3.1/ElektroFramework.Core.dll
-/home/eiektro/RiderProjects/ElektroFramework/ElektroFramework.Core/bin/Debug/netcoreapp3.1/ElektroFramework.Core.pdb
-/home/eiektro/RiderProjects/ElektroFramework/ElektroFramework.Core/obj/Debug/netcoreapp3.1/ElektroFramework.Core.csprojAssemblyReference.cache
-/home/eiektro/RiderProjects/ElektroFramework/ElektroFramework.Core/obj/Debug/netcoreapp3.1/ElektroFramework.Core.AssemblyInfoInputs.cache
-/home/eiektro/RiderProjects/ElektroFramework/ElektroFramework.Core/obj/Debug/netcoreapp3.1/ElektroFramework.Core.AssemblyInfo.cs
-/home/eiektro/RiderProjects/ElektroFramework/ElektroFramework.Core/obj/Debug/netcoreapp3.1/ElektroFramework.Core.csproj.CoreCompileInputs.cache
-/home/eiektro/RiderProjects/ElektroFramework/ElektroFramework.Core/obj/Debug/netcoreapp3.1/ElektroFramework.Core.dll
-/home/eiektro/RiderProjects/ElektroFramework/ElektroFramework.Core/obj/Debug/netcoreapp3.1/ElektroFramework.Core.pdb

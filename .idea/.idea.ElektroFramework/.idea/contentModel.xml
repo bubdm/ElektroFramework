@@ -11,19 +11,8 @@
     <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.15.1/build/netcoreapp2.0/nunit.engine.api.dll" t="Include" />
     <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.15.1/build/netcoreapp2.0/nunit.engine.dll" t="Include" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
-      <e p="ElektroFrameWork.Utilities.Test" t="IncludeRecursive">
-        <e p="ElektroFrameWork.Utilities.Test.csproj" t="IncludeRecursive" />
-        <e p="StringHelpers.test.cs" t="Include" />
-        <e p="bin" t="ExcludeRecursive" />
-        <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
-            <e p="netcoreapp3.1" t="Include">
-              <e p="ElektroFrameWork.Utilities.Test.AssemblyInfo.cs" t="Include" />
-            </e>
-          </e>
-        </e>
-      </e>
-      <e p="ElektroFramework.Core" t="IncludeRecursive">
+      <e p="Core" t="IncludeRecursive">
+        <e p="Core.csproj" t="IncludeRecursive" />
         <e p="DataAccess" t="Include">
           <e p="EntityFramework" t="Include">
             <e p="EfEntityRepositoryBase.cs" t="Include" />
@@ -37,7 +26,6 @@
             <e p="NhQueryableRepository.cs" t="Include" />
           </e>
         </e>
-        <e p="ElektroFramework.Core.csproj" t="IncludeRecursive" />
         <e p="Entities" t="Include">
           <e p="IEntity.cs" t="Include" />
         </e>
@@ -45,23 +33,24 @@
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
-              <e p="ElektroFramework.Core.AssemblyInfo.cs" t="Include" />
+              <e p="Core.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
       </e>
-      <e p="ElektroFramework.Northwind.Business" t="IncludeRecursive">
-        <e p="ElektroFramework.Northwind.Business.csproj" t="IncludeRecursive" />
+      <e p="ElektroFramework.sln" t="IncludeFlat" />
+      <e p="Northwind.Business" t="IncludeRecursive">
+        <e p="Northwind.Business.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
-              <e p="ElektroFramework.Northwind.Business.AssemblyInfo.cs" t="Include" />
+              <e p="Northwind.Business.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
       </e>
-      <e p="ElektroFramework.Northwind.DataAccess" t="IncludeRecursive">
+      <e p="Northwind.DataAccess" t="IncludeRecursive">
         <e p="Absract" t="Include">
           <e p="IProductDal.cs" t="Include" />
         </e>
@@ -74,84 +63,95 @@
             <e p="NorthwindContext.cs" t="Include" />
           </e>
         </e>
-        <e p="ElektroFramework.Northwind.DataAccess.csproj" t="IncludeRecursive" />
+        <e p="Northwind.DataAccess.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
-              <e p="ElektroFramework.Northwind.DataAccess.AssemblyInfo.cs" t="Include" />
+              <e p="Northwind.DataAccess.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
       </e>
-      <e p="ElektroFramework.Northwind.DataAccess.Test" t="IncludeRecursive">
-        <e p="ElektroFramework.Northwind.DataAccess.Test.csproj" t="IncludeRecursive" />
+      <e p="Northwind.DataAccess.Test" t="IncludeRecursive">
         <e p="EntityFrameworkTests" t="Include">
           <e p="EntityFrameworkTests.cs" t="Include" />
         </e>
+        <e p="Northwind.DataAccess.Test.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
-              <e p="ElektroFramework.Northwind.DataAccess.Test.AssemblyInfo.cs" t="Include" />
+              <e p="Northwind.DataAccess.Test.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
       </e>
-      <e p="ElektroFramework.Northwind.Entities" t="IncludeRecursive">
+      <e p="Northwind.Entities" t="IncludeRecursive">
         <e p="ComplexTypes" t="Include" />
         <e p="Concrete" t="Include">
           <e p="Product.cs" t="Include" />
         </e>
-        <e p="ElektroFramework.Northwind.Entities.csproj" t="IncludeRecursive" />
+        <e p="Northwind.Entities.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
-              <e p="ElektroFramework.Northwind.Entities.AssemblyInfo.cs" t="Include" />
+              <e p="Northwind.Entities.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
       </e>
-      <e p="ElektroFramework.ShoppingCart" t="IncludeRecursive">
+      <e p="ShoppingCart" t="IncludeRecursive">
         <e p="CartItem.cs" t="Include" />
         <e p="CartManager.cs" t="Include" />
-        <e p="ElektroFramework.ShoppingCart.csproj" t="IncludeRecursive" />
         <e p="Product.cs" t="Include" />
+        <e p="ShoppingCart.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
-              <e p="ElektroFramework.ShoppingCart.AssemblyInfo.cs" t="Include" />
+              <e p="ShoppingCart.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
       </e>
-      <e p="ElektroFramework.ShoppingCart.Tests" t="IncludeRecursive">
-        <e p="ElektroFramework.ShoppingCart.Tests.csproj" t="IncludeRecursive" />
+      <e p="ShoppingCart.Tests" t="IncludeRecursive">
+        <e p="ShoppingCart.Tests.csproj" t="IncludeRecursive" />
         <e p="ShoppingCartTests.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
-              <e p="ElektroFramework.ShoppingCart.Tests.AssemblyInfo.cs" t="Include" />
+              <e p="ShoppingCart.Tests.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
       </e>
-      <e p="ElektroFramework.Utilities" t="IncludeRecursive">
-        <e p="ElektroFramework.Utilities.csproj" t="IncludeRecursive" />
+      <e p="Utilities" t="IncludeRecursive">
         <e p="StringHelpers.cs" t="Include" />
+        <e p="Utilities.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
-              <e p="ElektroFramework.Utilities.AssemblyInfo.cs" t="Include" />
+              <e p="Utilities.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
       </e>
-      <e p="ElektroFramework.sln" t="IncludeFlat" />
+      <e p="Utilities.Test" t="IncludeRecursive">
+        <e p="StringHelpers.test.cs" t="Include" />
+        <e p="Utilities.Test.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Utilities.Test.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>
   </component>

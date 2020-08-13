@@ -1,22 +1,22 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElektroFramework.Core", "ElektroFramework.Core\ElektroFramework.Core.csproj", "{32AA3078-EA42-4CC7-B06F-6A5F1F49C6BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{32AA3078-EA42-4CC7-B06F-6A5F1F49C6BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElektroFramework.Northwind.Entities", "ElektroFramework.Northwind.Entities\ElektroFramework.Northwind.Entities.csproj", "{814E81B3-F85C-41EF-8351-BF13766F8977}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Entities", "Northwind.Entities\Northwind.Entities.csproj", "{814E81B3-F85C-41EF-8351-BF13766F8977}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElektroFramework.Northwind.DataAccess", "ElektroFramework.Northwind.DataAccess\ElektroFramework.Northwind.DataAccess.csproj", "{374254D4-1A8E-4C0A-8C59-8CA57EF0940B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.DataAccess", "Northwind.DataAccess\Northwind.DataAccess.csproj", "{374254D4-1A8E-4C0A-8C59-8CA57EF0940B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElektroFramework.Northwind.Business", "ElektroFramework.Northwind.Business\ElektroFramework.Northwind.Business.csproj", "{4A6DA678-910E-4BB1-91C6-5FE2E7461A62}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Business", "Northwind.Business\Northwind.Business.csproj", "{4A6DA678-910E-4BB1-91C6-5FE2E7461A62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElektroFramework.Utilities", "ElektroFramework.Utilities\ElektroFramework.Utilities.csproj", "{6E00A9E9-B0FE-4DD5-8CBA-1BECAD317180}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{6E00A9E9-B0FE-4DD5-8CBA-1BECAD317180}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElektroFrameWork.Utilities.Test", "ElektroFrameWork.Utilities.Test\ElektroFrameWork.Utilities.Test.csproj", "{A983A9CC-5E9D-4016-BF54-A0F88A38CB8C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities.Test", "Utilities.Test\Utilities.Test.csproj", "{A983A9CC-5E9D-4016-BF54-A0F88A38CB8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElektroFramework.ShoppingCart", "ElektroFramework.ShoppingCart\ElektroFramework.ShoppingCart.csproj", "{7BBA7CC4-47B2-49BB-B621-A9787F5BCDB6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCart", "ShoppingCart\ShoppingCart.csproj", "{7BBA7CC4-47B2-49BB-B621-A9787F5BCDB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElektroFramework.ShoppingCart.Tests", "ElektroFramework.ShoppingCart.Tests\ElektroFramework.ShoppingCart.Tests.csproj", "{6E8C9077-70A4-49BB-AD7E-27D8900DB30A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCart.Tests", "ShoppingCart.Tests\ShoppingCart.Tests.csproj", "{6E8C9077-70A4-49BB-AD7E-27D8900DB30A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElektroFramework.Northwind.DataAccess.Test", "ElektroFramework.Northwind.DataAccess.Test\ElektroFramework.Northwind.DataAccess.Test.csproj", "{17CEF00D-18A9-4688-8CBD-2C5FFF4037D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.DataAccess.Test", "Northwind.DataAccess.Test\Northwind.DataAccess.Test.csproj", "{17CEF00D-18A9-4688-8CBD-2C5FFF4037D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

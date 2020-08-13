@@ -1,0 +1,68 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/eiektro/RiderProjects/ElektroFramework/Utilities.Test/Utilities.Test.csproj",
+    "projectName": "Utilities.Test",
+    "projectPath": "/home/eiektro/RiderProjects/ElektroFramework/Utilities.Test/Utilities.Test.csproj",
+    "outputPath": "/home/eiektro/RiderProjects/ElektroFramework/Utilities.Test/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "/home/eiektro/RiderProjects/ElektroFramework/Utilities/Utilities.csproj": {
+            "projectPath": "/home/eiektro/RiderProjects/ElektroFramework/Utilities/Utilities.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[16.4.0, )"
+        },
+        "Microsoft.VisualStudio.QualityTools.UnitTestFramework": {
+          "target": "Package",
+          "version": "[11.0.50727.1, )"
+        },
+        "NUnit3TestAdapter": {
+          "target": "Package",
+          "version": "[3.15.1, )"
+        },
+        "nunit": {
+          "target": "Package",
+          "version": "[3.12.0, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+    }
+  }
+}

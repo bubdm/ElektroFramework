@@ -1,0 +1,9 @@
+/home/eiektro/RiderProjects/ElektroFramework/ShoppingCart/bin/Debug/netcoreapp3.1/ShoppingCart.deps.json
+/home/eiektro/RiderProjects/ElektroFramework/ShoppingCart/bin/Debug/netcoreapp3.1/ShoppingCart.dll
+/home/eiektro/RiderProjects/ElektroFramework/ShoppingCart/bin/Debug/netcoreapp3.1/ShoppingCart.pdb
+/home/eiektro/RiderProjects/ElektroFramework/ShoppingCart/obj/Debug/netcoreapp3.1/ShoppingCart.csprojAssemblyReference.cache
+/home/eiektro/RiderProjects/ElektroFramework/ShoppingCart/obj/Debug/netcoreapp3.1/ShoppingCart.AssemblyInfoInputs.cache
+/home/eiektro/RiderProjects/ElektroFramework/ShoppingCart/obj/Debug/netcoreapp3.1/ShoppingCart.AssemblyInfo.cs
+/home/eiektro/RiderProjects/ElektroFramework/ShoppingCart/obj/Debug/netcoreapp3.1/ShoppingCart.csproj.CoreCompileInputs.cache
+/home/eiektro/RiderProjects/ElektroFramework/ShoppingCart/obj/Debug/netcoreapp3.1/ShoppingCart.dll
+/home/eiektro/RiderProjects/ElektroFramework/ShoppingCart/obj/Debug/netcoreapp3.1/ShoppingCart.pdb
