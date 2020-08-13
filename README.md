@@ -10,4 +10,4 @@
 * NHibernate 4.1.1.4000
 * EntityFramework 6.1.3
 * Mono for Linux, .NET Framework 4.6.2 for Windows
-* Sqlite for NorthwindDB
+* Sqlite 3.31.1 for managing NorthwindDB
