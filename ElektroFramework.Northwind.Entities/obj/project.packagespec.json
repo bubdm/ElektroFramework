@@ -14,7 +14,11 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/home/eiektro/RiderProjects/ElektroFramework/ElektroFramework.Core/ElektroFramework.Core.csproj": {
+            "projectPath": "/home/eiektro/RiderProjects/ElektroFramework/ElektroFramework.Core/ElektroFramework.Core.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

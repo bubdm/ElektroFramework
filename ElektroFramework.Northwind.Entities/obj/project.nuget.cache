@@ -1,11 +1,55 @@
 {
   "version": 2,
-  "dgSpecHash": "RMENAYjr7Kba0oxhriwwc0FyV+MMiJKdI+2+j317jJxO7UfTkrAj88WH1NrhqO4XmB4VIaDK3bb75PshVxmFMA==",
+  "dgSpecHash": "y5/0V9v8HylF2k0v/5aQg/lV6p6zCtfGpg5yAlHlTA/oopdEvIKkVn1Bm8kxPyidUrogdVG8/vIRQQjA3zp0xQ==",
   "success": true,
   "projectFilePath": "/home/eiektro/RiderProjects/ElektroFramework/ElektroFramework.Northwind.Entities/ElektroFramework.Northwind.Entities.csproj",
   "expectedPackageFiles": [
+    "/home/eiektro/.nuget/packages/entityframework/6.1.3/entityframework.6.1.3.nupkg.sha512",
+    "/home/eiektro/.nuget/packages/iesi.collections/4.0.0.4000/iesi.collections.4.0.0.4000.nupkg.sha512",
+    "/home/eiektro/.nuget/packages/nhibernate/4.1.1.4000/nhibernate.4.1.1.4000.nupkg.sha512",
     "/home/eiektro/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "/home/eiektro/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.0/microsoft.aspnetcore.app.ref.3.1.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "NHibernate 4.1.1.4000 depends on Iesi.Collections (>= 4.0.0 && < 5.0.0) but Iesi.Collections 4.0.0 was not found. An approximate best match of Iesi.Collections 4.0.0.4000 was resolved.",
+      "libraryId": "Iesi.Collections",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'EntityFramework 6.1.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "EntityFramework",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Iesi.Collections 4.0.0.4000' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Iesi.Collections",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NHibernate 4.1.1.4000' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "NHibernate",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

@@ -4,4 +4,9 @@
         <TargetFramework>netcoreapp3.1</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\ElektroFramework.Core\ElektroFramework.Core.csproj" />
+      <ProjectReference Include="..\ElektroFramework.Northwind.Entities\ElektroFramework.Northwind.Entities.csproj" />
+    </ItemGroup>
+
 </Project>
