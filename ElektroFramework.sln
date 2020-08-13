@@ -8,14 +8,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElektroFramework.Northwind.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElektroFramework.Northwind.Business", "ElektroFramework.Northwind.Business\ElektroFramework.Northwind.Business.csproj", "{4A6DA678-910E-4BB1-91C6-5FE2E7461A62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElektroFramework.Northwind.MvcWebUI", "ElektroFramework.Northwind.MvcWebUI\ElektroFramework.Northwind.MvcWebUI.csproj", "{3CE896E3-05EF-43FA-BC7F-25156ABE3DF3}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElektroFramework.Northwind.MvcWebUI.Tests", "ElektroFramework.Northwind.MvcWebUI.Tests\ElektroFramework.Northwind.MvcWebUI.Tests.csproj", "{6047C28E-FAD5-4CF3-BE7B-BD60CF54D8AF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElektroFramework.Northwind.Business.Tests", "ElektroFramework.Northwind.Business.Tests\ElektroFramework.Northwind.Business.Tests.csproj", "{7E761F25-8B7E-4E2F-8A83-53C611BA349F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElektroFramework.Northwind.DataAccess.Tests", "ElektroFramework.Northwind.DataAccess.Tests\ElektroFramework.Northwind.DataAccess.Tests.csproj", "{9BB172F1-2264-46A3-BB53-10A3D9AD0E1A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElektroFramework.Utilities", "ElektroFramework.Utilities\ElektroFramework.Utilities.csproj", "{6E00A9E9-B0FE-4DD5-8CBA-1BECAD317180}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElektroFrameWork.Utilities.Test", "ElektroFrameWork.Utilities.Test\ElektroFrameWork.Utilities.Test.csproj", "{A983A9CC-5E9D-4016-BF54-A0F88A38CB8C}"
@@ -23,6 +15,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElektroFramework.ShoppingCart", "ElektroFramework.ShoppingCart\ElektroFramework.ShoppingCart.csproj", "{7BBA7CC4-47B2-49BB-B621-A9787F5BCDB6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElektroFramework.ShoppingCart.Tests", "ElektroFramework.ShoppingCart.Tests\ElektroFramework.ShoppingCart.Tests.csproj", "{6E8C9077-70A4-49BB-AD7E-27D8900DB30A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElektroFramework.Northwind.DataAccess.Test", "ElektroFramework.Northwind.DataAccess.Test\ElektroFramework.Northwind.DataAccess.Test.csproj", "{17CEF00D-18A9-4688-8CBD-2C5FFF4037D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -46,22 +40,6 @@ Global
 		{4A6DA678-910E-4BB1-91C6-5FE2E7461A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A6DA678-910E-4BB1-91C6-5FE2E7461A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A6DA678-910E-4BB1-91C6-5FE2E7461A62}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3CE896E3-05EF-43FA-BC7F-25156ABE3DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3CE896E3-05EF-43FA-BC7F-25156ABE3DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3CE896E3-05EF-43FA-BC7F-25156ABE3DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3CE896E3-05EF-43FA-BC7F-25156ABE3DF3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6047C28E-FAD5-4CF3-BE7B-BD60CF54D8AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6047C28E-FAD5-4CF3-BE7B-BD60CF54D8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6047C28E-FAD5-4CF3-BE7B-BD60CF54D8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6047C28E-FAD5-4CF3-BE7B-BD60CF54D8AF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7E761F25-8B7E-4E2F-8A83-53C611BA349F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7E761F25-8B7E-4E2F-8A83-53C611BA349F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7E761F25-8B7E-4E2F-8A83-53C611BA349F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7E761F25-8B7E-4E2F-8A83-53C611BA349F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9BB172F1-2264-46A3-BB53-10A3D9AD0E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9BB172F1-2264-46A3-BB53-10A3D9AD0E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9BB172F1-2264-46A3-BB53-10A3D9AD0E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9BB172F1-2264-46A3-BB53-10A3D9AD0E1A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6E00A9E9-B0FE-4DD5-8CBA-1BECAD317180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6E00A9E9-B0FE-4DD5-8CBA-1BECAD317180}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E00A9E9-B0FE-4DD5-8CBA-1BECAD317180}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -78,5 +56,9 @@ Global
 		{6E8C9077-70A4-49BB-AD7E-27D8900DB30A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E8C9077-70A4-49BB-AD7E-27D8900DB30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E8C9077-70A4-49BB-AD7E-27D8900DB30A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17CEF00D-18A9-4688-8CBD-2C5FFF4037D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CEF00D-18A9-4688-8CBD-2C5FFF4037D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CEF00D-18A9-4688-8CBD-2C5FFF4037D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CEF00D-18A9-4688-8CBD-2C5FFF4037D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

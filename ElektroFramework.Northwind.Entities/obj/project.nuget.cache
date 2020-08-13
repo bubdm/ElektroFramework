@@ -1,14 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "y5/0V9v8HylF2k0v/5aQg/lV6p6zCtfGpg5yAlHlTA/oopdEvIKkVn1Bm8kxPyidUrogdVG8/vIRQQjA3zp0xQ==",
+  "dgSpecHash": "an3sHXWWVNOeJbJvdkM9P4zZ+QLNc5s0KgZp3OaWoGI8AICQUqplAukJmrXidwjxqajynIkniijaaC/ieKne8g==",
   "success": true,
   "projectFilePath": "/home/eiektro/RiderProjects/ElektroFramework/ElektroFramework.Northwind.Entities/ElektroFramework.Northwind.Entities.csproj",
   "expectedPackageFiles": [
     "/home/eiektro/.nuget/packages/entityframework/6.1.3/entityframework.6.1.3.nupkg.sha512",
     "/home/eiektro/.nuget/packages/iesi.collections/4.0.0.4000/iesi.collections.4.0.0.4000.nupkg.sha512",
-    "/home/eiektro/.nuget/packages/nhibernate/4.1.1.4000/nhibernate.4.1.1.4000.nupkg.sha512",
-    "/home/eiektro/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "/home/eiektro/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.0/microsoft.aspnetcore.app.ref.3.1.0.nupkg.sha512"
+    "/home/eiektro/.nuget/packages/nhibernate/4.1.1.4000/nhibernate.4.1.1.4000.nupkg.sha512"
   ],
   "logs": [
     {

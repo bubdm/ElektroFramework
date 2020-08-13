@@ -1,7 +1,18 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a6d80b04_002D3f47_002D4293_002D87d4_002D0d5fa50892ad/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="All tests from EntityFrameworkTests.cs #2" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
+  &lt;ProjectFile&gt;17CEF00D-18A9-4688-8CBD-2C5FFF4037D3/d:EntityFrameworkTests/f:EntityFrameworkTests.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cd947cf7_002D8671_002D45c2_002D99e2_002D0a042cfd31ba/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="All tests from EntityFrameworkTests.cs" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
+  &lt;ProjectFile&gt;17CEF00D-18A9-4688-8CBD-2C5FFF4037D3/d:EntityFrameworkTests/f:EntityFrameworkTests.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d9287e79_002Db323_002D4717_002Da1fc_002D81b908d5e09d/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="False" ContinuousTestingMode="0" FrameworkVersion="{x:Null}" IsLocked="False" Name="All tests from &amp;lt;ElektroFrameWork.Utilities.Test&amp;gt;" PlatformMonoPreference="{x:Null}" PlatformType="{x:Null}" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;
   &lt;Or&gt;
     &lt;Project Location="/home/eiektro/RiderProjects/ElektroFramework/ElektroFrameWork.Utilities.Test" Presentation="&amp;lt;ElektroFrameWork.Utilities.Test&amp;gt;" /&gt;
     &lt;ProjectFile&gt;6E8C9077-70A4-49BB-AD7E-27D8900DB30A/f:ShoppingCartTests.cs&lt;/ProjectFile&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit3x::17CEF00D-18A9-4688-8CBD-2C5FFF4037D3::.NETCoreApp,Version=v3.1::ElektroFramework.Northwind.DataAccess.Test.EntityFrameworkTests.EntityFrameworkTests&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
   &lt;/Or&gt;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>
